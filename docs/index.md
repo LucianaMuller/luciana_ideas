@@ -1,17 +1,23 @@
-# Welcome to MkDocs
+# Portal DCMEFO
+*Seu portal para navegar no orçamento sem mistério*
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Olá! Somos a *equipe DCMEFO*, responsável por **apoiar** e **orientar** os órgãos do Estado de Minas Gerais em processos que envolve o orçamento público.
 
-## Commands
+Aqui você encontra, de forma simples e prática:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- os processos que conduzimos,
 
-## Project layout
+- respostas para dúvidas frequentes,
+- orientações para facilitar seu dia a dia.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Nosso objetivo é claro: reunir informações essenciais em um só lugar para tornar as rotinas orçamentárias mais fáceis de entender e conduzir ao longo do ano.
+
+## Guia Rápido
+- [Cotas Orçamentárias](cotas-orcamentarias.md)
+- [Crédito Orçamentário](credito-orcamentario.md)
+- [Entendendo Conceitos](entendendo-conceitos.md)
+- [DPO](dpo.md)
+- [Monitoramento](monitoramento.md)
+- [Orçamento Base Zero](orcamento-base-zero.md)
+- [Calendário do orçamento](calendário-do-orçamento.md)
+
