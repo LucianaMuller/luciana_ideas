@@ -11,6 +11,7 @@ Aqui você encontra, de forma simples e prática:
 - orientações para facilitar seu dia a dia.
 
 Nosso objetivo é claro: reunir informações essenciais em um só lugar para tornar as rotinas orçamentárias mais fáceis de entender e conduzir ao longo do ano.
+![imagem_inicial](https://drive.google.com/drive/recent?hl=pt_BR)
 
 ## Guia Rápido
 - [Cotas Orçamentárias](cotas-orcamentarias.md)
